@@ -1,0 +1,2544 @@
+[
+    {
+        "header": "The Zero (0) Complexity Business IT Design principles",
+        "authors": " Maikel Mardjan",
+        "principles": [
+            "Put People first!",
+            "Only use what you understand.",
+            "Define specific criteria that are tangible to measure complexity.",
+            "Create a model of your solution",
+            "Separation of concerns",
+            "Reduce all waste.",
+            "Problems should be fixed through simple solutions.",
+            "Design for change.",
+            "Make sure you can manage IT!",
+            "Privacy by design.",
+            "Never over engineer"
+        ]
+    },
+    {
+        "header": "10 Principles For Design In The Age Of AI",
+        "authors": " Yves Béhar",
+        "principles": [
+            "Design solves an important human problem",
+            "Design is context specific (it doesn’t follow historical cliches)",
+            "Design enhances human ability (without replacing the human)",
+            "Good design works for everyone, everyday",
+            "Good tech and design is discreet",
+            "Good design is a platform that grows with needs and opportunities",
+            "Good design brings about products and services that build long-term relationships (but don’t create emotional dependency)",
+            "Good technology design learns and predicts human behaviour",
+            "Good design accelerates new ideas",
+            "Good design removes complexity from life"
+        ]
+    },
+    {
+        "header": "10 Principles of Codecademy",
+        "authors": " Codecademy.com",
+        "principles": [
+            "One Column",
+            "Social Proof",
+            "More Contrast",
+            "Fewer Form Fields",
+            "Keeping Focus",
+            "Direct Manipulation",
+            "Visual Hierarchy",
+            "Visual Recognition",
+            "Larger Targets",
+            "Design for Edge Cases"
+        ]
+    },
+    {
+        "header": "10 Principles of Good Road Design",
+        "authors": " Highways England Strategic Design Panel",
+        "principles": [
+            "makes roads safe and useful",
+            "is inclusive",
+            "makes roads understandable",
+            "fits in context",
+            "is restrained",
+            "is thorough",
+            "is environmentally sustainable",
+            "is innovative",
+            "is long-lasting",
+            "is a collaborative process"
+        ]
+    },
+    {
+        "header": "10 Principles of Organization Design",
+        "authors": " Gary L. Neilson, Jaime Estupiñán, and Bhushan Sethi",
+        "principles": [
+            "Declare amnesty for the past",
+            "Design with “DNA.”",
+            "Fix the structure last, not first",
+            "Make the most of top talent",
+            "Focus on what you can control",
+            "Promote accountability",
+            "Benchmark sparingly, if at all",
+            "Let the “lines and boxes” fit your company’s purpose",
+            "Accentuate the informal",
+            "Build on your strengths"
+        ]
+    },
+    {
+        "header": "10 Usability Heuristics for User Interface Design",
+        "authors": " Jakob Nielsen",
+        "principles": [
+            "Visibility of system status",
+            "Match between system and the real world",
+            "User control and freedom",
+            "Consistency and standards",
+            "Error prevention",
+            "Recognition rather than recall",
+            "Flexibility and efficiency of use",
+            "Aesthetic and minimalist design",
+            "Help users recognize, diagnose, and recover from errors",
+            "Help and documentation"
+        ]
+    },
+    {
+        "header": "20 Guiding Principles for Experience Design",
+        "authors": " Whitney Hess",
+        "principles": [
+            "Stay out of people’s way",
+            "Present few choices",
+            "Limit distractions",
+            "Group related objects near each other",
+            "Create a visual hierarchy that matches the user’s needs",
+            "Provide strong information scent",
+            "Provide signposts and cues",
+            "Provide context",
+            "Avoid jargon",
+            "Make things efficient",
+            "Use appropriate defaults",
+            "Use constraints appropriately",
+            "Make actions reversible",
+            "Reduce latency",
+            "Provide feedback",
+            "Use emotion",
+            "Less is more",
+            "Be consistent",
+            "Make a good first impression",
+            "Be credible and trustworthy"
+        ]
+    },
+    {
+        "header": "37 Signals Principles",
+        "authors": " 37 Signals",
+        "principles": [
+            "Useful is forever",
+            "Great service is everything",
+            "Clarity is king",
+            "Our customers are our investors",
+            "The basics are beautiful",
+            "No hidden fees or secret prices",
+            "Software should be easy",
+            "Long-term contracts are obscene"
+        ]
+    },
+    {
+        "header": "5 Guiding Principles for Experience Designers",
+        "authors": " Whitney Hess",
+        "principles": [
+            "Understand the underlying problem before attempting to solve it",
+            "Don’t hurt anyone",
+            "Make things simple and intuitive",
+            "Acknowledge that the user is not like you",
+            "Have empathy"
+        ]
+    },
+    {
+        "header": "5 Principles for the wearable revolution",
+        "authors": " Fjord",
+        "principles": [
+            "Balance Public and Personal",
+            "Keep it Glanceable",
+            "Leverage Non-Visual UI",
+            "Beware of the Data Avalanche",
+            "Mind the Gaps"
+        ]
+    },
+    {
+        "header": "5 rules for incorporating AI tech into design",
+        "authors": " Tom Castle",
+        "principles": [
+            "Design for People",
+            "Design for Transparent Value",
+            "Design for Failure",
+            "Design for Learning",
+            "Design for Ethics"
+        ]
+    },
+    {
+        "header": "7 principles for designing a blockchain network to power and sustain your business",
+        "authors": " IBM Blockchain Dev Center",
+        "principles": [
+            "Network participants must have control of their business",
+            "The network must be extensible, with membership flexibility",
+            "The network must be permissioned but with competitive data protected",
+            "The network must allow open access and global collaboration",
+            "The network must be scalable for transaction processing and data encryption processing",
+            "The network must be secure and address new security challenges of a shared network",
+            "The network must co-exist with existing systems of record and transaction systems"
+        ]
+    },
+    {
+        "header": "7 Principles of Rich Web Applications",
+        "authors": " Guillermo Rauch",
+        "principles": [
+            "Server rendered pages are not optional",
+            "Act immediately on user input",
+            "React to data changes",
+            "Control the data exchange with the server",
+            "Don’t break history, enhance it",
+            "Push code updates",
+            "Predict behavior"
+        ]
+    },
+    {
+        "header": "8 Design Principles for Organizational Transformation",
+        "authors": " Xplane",
+        "principles": [
+            "Clarity",
+            "Inspiration",
+            "Visual Alignment",
+            "Co-creation",
+            "Action",
+            "Transparency",
+            "Harmony",
+            "Resilience"
+        ]
+    },
+    {
+        "header": "8 fundamentals for user friendly product development",
+        "authors": " Devhouse Spindle / Luuk Hartsema",
+        "principles": [
+            "Consistency",
+            "Functional",
+            "Engaging",
+            "Focus",
+            "Honest",
+            "Minimalistic",
+            "Fun & Playful",
+            "Human"
+        ]
+    },
+    {
+        "header": "A design-led approach to infrastructure",
+        "authors": " Design Council",
+        "principles": [
+            "Setting the scene",
+            "Multi-disciplinary teamwork",
+            "The bigger picture",
+            "Site masterplan",
+            "Landscape and visual impact assessment",
+            "Landscape design",
+            "Design approach",
+            "Materials and detailing",
+            "Sustainability",
+            "Visitor centre"
+        ]
+    },
+    {
+        "header": "A principled design process",
+        "authors": " Seek",
+        "principles": [
+            "Design with empathy",
+            "A Seek interaction is transparent, honest and trustworthy",
+            "Use persuasive design to achieve business goals",
+            "Content is king",
+            "Simplicity is powerful",
+            "Data informs design",
+            "Consistency matters",
+            "Accessible design is good design",
+            "Make it mine",
+            "Don’t make users think"
+        ]
+    },
+    {
+        "header": "About Foodspotting",
+        "authors": " Foodspotting",
+        "principles": [
+            "It’s about dishes, not just restaurants.",
+            "It’s visual.",
+            "It's positive."
+        ]
+    },
+    {
+        "header": "Airbnb's Design Principles",
+        "authors": " Airbnb",
+        "principles": [
+            "Unified",
+            "Universal",
+            "Iconic",
+            "Conversational"
+        ]
+    },
+    {
+        "header": "Amazon's Leadership Principles",
+        "authors": " Amazon",
+        "principles": [
+            "Customer Obsession",
+            "Ownership",
+            "Invent and Simplify",
+            "Are Right, A Lot",
+            "Learn and Be Curious",
+            "Hire and Develop the Best",
+            "Insist on the Highest Standards",
+            "Think Big",
+            "Bias for Action",
+            "Frugality",
+            "Earn Trust",
+            "Dive Deep",
+            "Have Backbone; Disagree and Commit",
+            "Deliver Results"
+        ]
+    },
+    {
+        "header": "AMP Design Principles",
+        "authors": " AMP Project",
+        "principles": [
+            "User Experience > Developer Experience > Ease of Implementation.",
+            "Don’t design for a hypothetical faster future browser.",
+            "Don’t break the web.",
+            "Solve problems on the right layer.",
+            "Only do things if they can be made fast.",
+            "Prioritise things that improve the user experience – but compromise when needed.",
+            "No whitelists."
+        ]
+    },
+    {
+        "header": "Android Design Principles",
+        "authors": " Android Developers",
+        "principles": [
+            "Enchant Me",
+            "Simplify My Life",
+            "Make Me Amazing"
+        ]
+    },
+    {
+        "header": "Design Principles of Android Wear",
+        "authors": " Android Developers",
+        "principles": [
+            "Timely",
+            "Glanceable",
+            "Easy to tap",
+            "Time-saving"
+        ]
+    },
+    {
+        "header": "Ant Design",
+        "authors": " Ant Design",
+        "principles": [
+            "Proximity",
+            "Alignment",
+            "Contrast",
+            "Repetition",
+            "Make it Direct",
+            "Stay on the Page",
+            "Keep it Lightweight",
+            "Provide an Invitation",
+            "Use Transition",
+            "React Immediately"
+        ]
+    },
+    {
+        "header": "Architecture Principles",
+        "authors": " The Open Group",
+        "principles": [
+            "Primacy of Principles",
+            "Maximize Benefit to the Enterprise",
+            "Information Management is Everybody's Business",
+            "Business Continuity",
+            "Common Use Applications",
+            "Compliance with Law",
+            "IT Responsibility",
+            "Protection of Intellectual Property",
+            "Data is an Asset",
+            "Data is Shared",
+            "Data is Accessible",
+            "Data Trustee",
+            "Common Vocabulary and Data Definitions",
+            "Data Security",
+            "Technology Independence",
+            "Ease-of-Use",
+            "Requirements-Based Change",
+            "Responsive Change Management",
+            "Control Technical Diversity",
+            "Interoperability"
+        ]
+    },
+    {
+        "header": "Asana's Design Principles",
+        "authors": " Asana",
+        "principles": [
+            "Allow users to focus on their work without interference.",
+            "Increase confidence through clarity.",
+            "Foster productive and emotionally satisfying interpersonal dynamics.",
+            "Design for fast, effortless, and intentional interactions.",
+            "Empower everyone through progressive discoverability.",
+            "Be consistent and standard, and innovate when it’s worth it."
+        ]
+    },
+    {
+        "header": "UX Paradigms",
+        "authors": " Audi",
+        "principles": [
+            "Personalization",
+            "Context",
+            "Consistency",
+            "Clarity",
+            "Reliability",
+            "Details"
+        ]
+    },
+    {
+        "header": "Audible's People Principles",
+        "authors": " Audible",
+        "principles": [
+            "Be Customer Obsessed",
+            "Imagine and Invent Before They Ask",
+            "Articulate the Possible and Move Fast to Make it Real",
+            "Study and Draw Inspiration from Culture and Technology",
+            "Activate Caring"
+        ]
+    },
+    {
+        "header": "Australia DesignGov Principles",
+        "authors": " DesignGov Australia",
+        "principles": [
+            "Connected, Customer and Community Centric",
+            "Courageous",
+            "Collaborative, Co-design, Co-creation, Co-production",
+            "Coherent",
+            "Co-sponsored"
+        ]
+    },
+    {
+        "header": "Autodesk Principles",
+        "authors": " Autodesk",
+        "principles": [
+            "Put customers first",
+            "Connected and interconnected",
+            "Adapt and grow",
+            "Make the complex beautifully clear",
+            "Distinctively Autodesk"
+        ]
+    },
+    {
+        "header": "Basic Principles of NUI Design",
+        "authors": " Dan Saffer",
+        "principles": [
+            "Design for Fingers, not Cursors",
+            "Remember physiology and kinesiology",
+            "No gorilla arm",
+            "Screen coverage",
+            "Know the technology",
+            "Trigger actions on release, not on press",
+            "Attraction affordance",
+            "Avoid unintentional triggers",
+            "Gestures and Command Keys",
+            "Requisite variety",
+            "Match the complexity of the gesture to the complexity and frequency of the task"
+        ]
+    },
+    {
+        "header": "BBC Design Philosophy",
+        "authors": " BBC",
+        "principles": [
+            "Universal",
+            "Compelling",
+            "Authentic",
+            "Pioneering",
+            "Current",
+            "Distinctive",
+            "Joined-up",
+            "Local / Global",
+            "Modern British",
+            "Best"
+        ]
+    },
+    {
+        "header": "Blend Design Principles",
+        "authors": " Blend",
+        "principles": [
+            "Start with the story",
+            "Advocate for your audience",
+            "Consider every scenario",
+            "Build a bridge to the future"
+        ]
+    },
+    {
+        "header": "Blockchain Design Principles",
+        "authors": " IBM Design",
+        "principles": [
+            "Design for trust",
+            "Data exposure",
+            "Consistency",
+            "Constant feedback",
+            "Allow for and anticipate mistakes to be made",
+            "Active Guidance"
+        ]
+    },
+    {
+        "header": "Buzzfeed Product Design Principles",
+        "authors": " Buzfeed Design",
+        "principles": [
+            "Delight with speed",
+            "Keep it fresh",
+            "Know the goals",
+            "Consider the ecosystem",
+            "Design with the platform",
+            "Advocate for our users",
+            "Pair simplicity with delight",
+            "Design for scale",
+            "Learn, learn again"
+        ]
+    },
+    {
+        "header": "CSPB Design Principles",
+        "authors": " Consumer Financial Protection Bureau",
+        "principles": [
+            "Public service, public trust",
+            "Give the user control",
+            "Aesthetic integrity",
+            "Design with data",
+            "Inclusion and accessibility",
+            "Coherent end-to-end user experience"
+        ]
+    },
+    {
+        "header": "Clean Forest Consulting",
+        "authors": " Noam Eppel",
+        "principles": [
+            "Usability is everything. Focus on the user and all will be well.\n",
+            "We use open source, non-proprietary systems. No vendor lock-in.\n",
+            "Is it any wonder that the two hottest technology companies – Google and Apple – are iconically known for their simplicity. Customers want elegant and simple solutions which work well.\n",
+            "It is better to release a great new website today, than a “perfect” website next month. The best websites are released early, and are constantly evolving.\n",
+            "What is the secret behind our success? Bad consultants make money off their clients, great consultants make money for their clients. That's it. That's the whole secret.\n"
+        ]
+    },
+    {
+        "header": "Principles",
+        "authors": " Co-op",
+        "principles": [
+            "We design in context",
+            "We design with purpose",
+            "We design for everyone",
+            "We design with honesty",
+            "We design in the open",
+            "We design iteratively"
+        ]
+    },
+    {
+        "header": "Converged Infrastructure",
+        "authors": " Hewlett-Packard",
+        "principles": [
+            "Virtualization",
+            "Resilience",
+            "Openness",
+            "Modularity",
+            "Orchestration"
+        ]
+    },
+    {
+        "header": "D.Mindsets",
+        "authors": " d.school",
+        "principles": [
+            "Show Don’t Tell",
+            "Focus on Human Values",
+            "Craft Clarity",
+            "Embrace Experimentation",
+            "Be Mindful Of Process",
+            "Bias Toward Action",
+            "Radical Collaboration"
+        ]
+    },
+    {
+        "header": "Design in the Era of the Algorithm",
+        "authors": " Josh Clark",
+        "principles": [
+            "Favor accuracy over speed",
+            "Allow for ambiguity",
+            "Add human judgment",
+            "Advocate sunshine",
+            "Embrace multiple systems",
+            "Make it easy to contribute (accurate) data",
+            "Root out bias and bad assumptions",
+            "Give people control over their data",
+            "Be loyal to the user",
+            "Take responsibility"
+        ]
+    },
+    {
+        "header": "Manifesto for service and product design",
+        "authors": " Niklaus Gerber",
+        "principles": [
+            "We focus on our user's needs",
+            "We add value and not features",
+            "We test and iterate",
+            "We learn from failure",
+            "We are obvious",
+            "We are consistent",
+            "We make it usable and attractive",
+            "We make it accessible and inclusive",
+            "We imbue ownership",
+            "We design with data",
+            "We collaborate",
+            "We make it shareable and reusable",
+            "We acknowledge that design never stops"
+        ]
+    },
+    {
+        "header": "Design Principles for Bing",
+        "authors": " Microsoft",
+        "principles": [
+            "Design for explorers",
+            "Delight and surprise our users",
+            "Earn Trust",
+            "Be the brand",
+            "Make money",
+            "Showcase our best",
+            "Organize the page by relevance",
+            "Respect the need for speed",
+            "Give just enough and offer more",
+            "Present a seamless experience"
+        ]
+    },
+    {
+        "header": "Design principles for reducing cognitive load",
+        "authors": " Jon Yablonski",
+        "principles": [
+            "Avoid unnecessary elements",
+            "Leverage common design patterns",
+            "Eliminate unnecessary tasks",
+            "Minimize choices",
+            "Display choices as a group",
+            "Strive for readability",
+            "Use iconography with caution"
+        ]
+    },
+    {
+        "header": "Design Principles for Windows Store apps",
+        "authors": " Microsoft",
+        "principles": [
+            "Pride in craftsmanship",
+            "Be fast and fluid",
+            "Authentically digital",
+            "Do more with less",
+            "Win as one"
+        ]
+    },
+    {
+        "header": "Design themes & principles",
+        "authors": " Transport for London",
+        "principles": [
+            "Efficiency",
+            "Usability",
+            "Understanding",
+            "Quality"
+        ]
+    },
+    {
+        "header": "Designing for Virtual Reality",
+        "authors": " Google",
+        "principles": [
+            "Head Tracking",
+            "Acceleration",
+            "Utilizing Reticles",
+            "Using Scale",
+            "Spatial Audio",
+            "Gaze Cues",
+            "Make It Beautiful"
+        ]
+    },
+    {
+        "header": "Designing for vision impaired people",
+        "authors": " Wayfindr",
+        "principles": [
+            "Involve users in the process",
+            "Focus on the environment not the technology",
+            "Use simple and concise messages",
+            "Use active words",
+            "Provide reassurance information",
+            "Provide an instruction at every decision making point",
+            "Provide different techniques for diagonal directions",
+            "Provide auditory cues",
+            "Divide the route into clear segments"
+        ]
+    },
+    {
+        "header": "Designing for voice interfaces",
+        "authors": " Brian Colcord",
+        "principles": [
+            "Have a compelling reason to use voice:\n",
+            "Set user expectations and build trust:\n",
+            "Make it naturally discoverable:\n",
+            "Mimic how people naturally speak:\n",
+            "Create context through modality and state:\n"
+        ]
+    },
+    {
+        "header": "Designing Mindfulness Principles",
+        "authors": " Mindfulness Everywhere",
+        "principles": [
+            "Value Human Attention",
+            "Be Honest About Dark Patterns",
+            "Respect Information Zones",
+            "Prioritize Quality",
+            "Discourage Addictive Usage",
+            "Provide Exit Points",
+            "Minimize Social Anxiety",
+            "Establish Holistic Metrics",
+            "Apply Principles Company Wide"
+        ]
+    },
+    {
+        "header": "Digital Product Design Principles",
+        "authors": " Degreed",
+        "principles": [
+            "Define the problem first",
+            "Create more value by creating less",
+            "Design performs",
+            "Strive for consistency",
+            "Focus the user on one primary action at a time",
+            "Minimize user input",
+            "Use your user’s language",
+            "Make decisions for the user",
+            "Design with strong visual hierarchy",
+            "Align elements",
+            "Don’t go for ‘WOW’, go for ‘of course’",
+            "Design for change"
+        ]
+    },
+    {
+        "header": "Digital Service Standard",
+        "authors": " Government Digital Service",
+        "principles": [
+            "Understand user needs",
+            "Do ongoing user research",
+            "Have a multidisciplinary team",
+            "Use agile methods",
+            "Iterate and improve frequently",
+            "Evaluate tools and systems",
+            "Understand security and privacy issues",
+            "Make all new source code open",
+            "Use open standards and common platforms",
+            "Test the end-to-end service",
+            "Make a plan for being offline",
+            "Make sure users succeed first time",
+            "Make the user experience consistent with GOV.UK",
+            "Encourage everyone to use the digital service",
+            "Collect performance data",
+            "Identify performance indicators",
+            "Report performance data on the Performance Platform",
+            "Test with the minister"
+        ]
+    },
+    {
+        "header": "Digital Services Playbook",
+        "authors": " U.S. Digital Services",
+        "principles": [
+            "Understand what people need",
+            "Address the whole experience, from start to finish",
+            "Make it simple and intuitive",
+            "Build the service using agile and iterative practices",
+            "Structure budgets and contracts to support delivery",
+            "Assign one leader and hold that person accountable",
+            "Bring in experienced teams",
+            "Choose a modern technology stack",
+            "Deploy in a flexible hosting environment",
+            "Automate testing and deployments",
+            "Manage security and privacy through reusable processes",
+            "Use data to drive decisions",
+            "Default to open"
+        ]
+    },
+    {
+        "header": "Digital Surgeon's Design Principles",
+        "authors": " Digital Surgeons",
+        "principles": [
+            "Connected thinking.",
+            "Ideas are nothing without execution.",
+            "One input creates at least two outputs with an outcome.",
+            "Understand energy and amplify it.",
+            "Stack thinking, not features.",
+            "Resilience is your roadmap."
+        ]
+    },
+    {
+        "header": "Domain's Design Principles",
+        "authors": " Domain",
+        "principles": [
+            "What Am I Solving?",
+            "Do I Need This____?",
+            "Where Is The Love?"
+        ]
+    },
+    {
+        "header": "Don Normans Principles of Design",
+        "authors": " Don Norman",
+        "principles": [
+            "Visibility",
+            "Feedback",
+            "Constraints",
+            "Mapping",
+            "Consistency",
+            "Affordance"
+        ]
+    },
+    {
+        "header": "Drupal 7 User Experience Project",
+        "authors": " Drupal",
+        "principles": [
+            "Make the most frequent tasks easy and less frequent tasks achievable.",
+            "Design for the 80%",
+            "Privilege the Content Creator",
+            "Make the default settings smart"
+        ]
+    },
+    {
+        "header": "Ebay Design Principles",
+        "authors": " Ebay",
+        "principles": [
+            "We Craft",
+            "We Simplify",
+            "We Connect",
+            "We Go All In"
+        ]
+    },
+    {
+        "header": "Eight Principles of Information Architecture",
+        "authors": " Dan Brown",
+        "principles": [
+            "Principle of objects",
+            "Principle of choices",
+            "Principle of disclosure",
+            "Principle of exemplars",
+            "Principle of front doors",
+            "Principle of multiple classification",
+            "Principle of focused navigation",
+            "Principle of growth"
+        ]
+    },
+    {
+        "header": "Eight Principles of Natural User Interfaces",
+        "authors": " Rachel Hinman",
+        "principles": [
+            "Principle of Performance Aesthetics",
+            "Principle of Direct Manipulation",
+            "Principle of Scaffolding",
+            "Principle of Contextual Environments",
+            "Principle of the Super Real",
+            "Principle of Social Interaction",
+            "Principle of Spatial Relationships",
+            "Principle of Seamlessness"
+        ]
+    },
+    {
+        "header": "Elegant, efficient and sophisticated",
+        "authors": " Jeff Gothelf",
+        "principles": [
+            "Elegant",
+            "Efficient",
+            "Sophisticate"
+        ]
+    },
+    {
+        "header": "Etsy Design Principles",
+        "authors": " Etsy Design",
+        "principles": [
+            "Be effective",
+            "Create unity",
+            "Always be thorough",
+            "Express Etsy"
+        ]
+    },
+    {
+        "header": "Facebook Design Principles",
+        "authors": " Facebook",
+        "principles": [
+            "Universal",
+            "Human",
+            "Clean",
+            "Consistent",
+            "Useful",
+            "Fast",
+            "Transparent"
+        ]
+    },
+    {
+        "header": "Firefox Design Values",
+        "authors": " Firefox",
+        "principles": [
+            "Takes care of you",
+            "You help make it",
+            "Plays well with others",
+            "Exuberant",
+            "Finely crafted",
+            "Global",
+            "Balances power and simplicity",
+            "Makes sense of the web",
+            "High user-performance"
+        ]
+    },
+    {
+        "header": "First Principles of Instruction",
+        "authors": " M. David Merrill",
+        "principles": [
+            "Task/Problem-Centered",
+            "Activation",
+            "Demonstration",
+            "Application",
+            "Integration"
+        ]
+    },
+    {
+        "header": "First Principles of Interaction Design",
+        "authors": " Bruce Tognazzini",
+        "principles": [
+            "Anticipation",
+            "Autonomy",
+            "Color Blindness",
+            "Consistency",
+            "Defaults",
+            "Efficiency of the User",
+            "Explorable Interfaces",
+            "Fitts’ Law",
+            "Human Interface Objects",
+            "Latency Reduction",
+            "Learnability",
+            "Metaphors",
+            "Protect Users’ Work",
+            "Readability",
+            "Track State",
+            "Visible Navigation"
+        ]
+    },
+    {
+        "header": "Fisher-Price Toy Making Principles",
+        "authors": " Irving Price and Helen Schelle",
+        "principles": [
+            "Intrinsic play value",
+            "Ingenuity",
+            "Strong construction",
+            "Good value for the money",
+            "Action"
+        ]
+    },
+    {
+        "header": "Front-End Principles for Designers",
+        "authors": " Jon Yablonski",
+        "principles": [
+            "Let Go of Control",
+            "Avoid Too Much Variation",
+            "Keep Performance in Mind",
+            "Understand Source Order",
+            "Know Your Numbers",
+            "Let Content Determine Breakpoints",
+            "Maintain Consistency",
+            "Communicate Early and Often"
+        ]
+    },
+    {
+        "header": "GDPR Principles",
+        "authors": " Information Commissioner's Office",
+        "principles": [
+            "Lawfulness, fairness and transparency",
+            "Purpose limitations",
+            "Data minimisation",
+            "Accuracy",
+            "Storage limitations",
+            "Integrity and confidentiality"
+        ]
+    },
+    {
+        "header": "User Central (Dutch: Gebruiker Centraal)\n",
+        "authors": " Actieteam Gebruiker Centraal",
+        "principles": [
+            "User central",
+            "Only be satisfied when your user is",
+            "Make it easy for the user",
+            "Use facts, not assumptions",
+            "Be open and share your knowledge"
+        ]
+    },
+    {
+        "header": "GEL Design Principles",
+        "authors": " BBC",
+        "principles": [
+            "Respect everyone",
+            "Love needs",
+            "Everywhere, always",
+            "Drive discovery",
+            "Further together"
+        ]
+    },
+    {
+        "header": "Google Calendar's design principles",
+        "authors": " Google",
+        "principles": [
+            "Fast, visually appealing, and joyous to use",
+            "Drop-dead simple to get information into the calendar",
+            "More than boxes on a screen (reminders, invitations, etc.)",
+            "Easy to share so you can see your whole life in one place"
+        ]
+    },
+    {
+        "header": "Google's Conversation Principles",
+        "authors": " Google",
+        "principles": [
+            "Keep it short",
+            "Give them credit",
+            "Optimize for relevance",
+            "Delight the ear without distracting the mind",
+            "Engage beginners and attract experts",
+            "Take turns",
+            "Don't read minds"
+        ]
+    },
+    {
+        "header": "Google Glass Principles",
+        "authors": " Google",
+        "principles": [
+            "Design for Glass",
+            "Don't get in the way",
+            "Keep It relevant",
+            "Avoid the Unexpected",
+            "Build for people"
+        ]
+    },
+    {
+        "header": "Government Design Principles",
+        "authors": " Government Digital Service",
+        "principles": [
+            "Start with user needs",
+            "Do less",
+            "Design with data",
+            "Do the hard work to make it simple",
+            "Iterate. Then iterate again",
+            "This is for everyone",
+            "Understand context",
+            "Build digital services, not websites",
+            "Be consistent, not uniform",
+            "Make things open: it makes things better"
+        ]
+    },
+    {
+        "header": "Grommet Best Practices",
+        "authors": " HP Enterprise",
+        "principles": [
+            "Know your users",
+            "Your users are not like you",
+            "All users are not the same",
+            "Let the user take control",
+            "Content over chrome",
+            "Don’t drown the user in data",
+            "Innovate with intention",
+            "Consistency across the application",
+            "Tell a story and use metaphors",
+            "There are no user errors",
+            "Think about the entire user experience"
+        ]
+    },
+    {
+        "header": "Groww's 6 design principles",
+        "authors": " Mai Khanh Pham To & team",
+        "principles": [
+            "Less is more",
+            "Grow my garden, grow myself up",
+            "Gardening is a journey",
+            "Stronger together",
+            "We’re outdoor folks",
+            "No spray"
+        ]
+    },
+    {
+        "header": "Guiding Principles for Design Tools",
+        "authors": " Patrick Hebron",
+        "principles": [
+            "A tool should be easy to use, meeting the user at his or her point-of-view rather than requiring the user to gain expertise about the tool itself.",
+            "A tool should be open-ended, allowing any possible output.",
+            "A tool should make the user’s iterative process visible and navigable.",
+            "A tool should expand rather than limit or corral the user’s thinking.",
+            "A tool should help the user to develop an intuition for the problem space, its inherent constraints and the relationships between properties.",
+            "A tool should help the user to break the problem down and work through its components while keeping the whole in mind.",
+            "A tool should be adaptable to the user, capable of being transformed by its own design process."
+        ]
+    },
+    {
+        "header": "Holstee's Design Principles",
+        "authors": " Holstee",
+        "principles": [
+            "Use Less And Do More",
+            "Create An Heirloom",
+            "Produce With A Craftsman's Sprit",
+            "Design For The Heart",
+            "Look Back And Think Forward"
+        ]
+    },
+    {
+        "header": "HTC Hero",
+        "authors": " HTC",
+        "principles": [
+            "Make It Mine",
+            "Stay Close",
+            "Discover the Unexpected"
+        ]
+    },
+    {
+        "header": "HTML Design Principles",
+        "authors": " W3C",
+        "principles": [
+            "Compatibility",
+            "Utility",
+            "Interoperability",
+            "Universal access"
+        ]
+    },
+    {
+        "header": "Hubspot Design Principles",
+        "authors": " Hubspot",
+        "principles": [
+            "Clear",
+            "Human",
+            "Inbound",
+            "Integrated",
+            "Collaborative"
+        ]
+    },
+    {
+        "header": "IBM 6 UX Guidelines",
+        "authors": " IBM Design",
+        "principles": [
+            "Discover, Try and Buy",
+            "Get Started",
+            "Every Day Use",
+            "Manage and Upgrade",
+            "Leverage and Extend",
+            "Get Support"
+        ]
+    },
+    {
+        "header": "IBM Design Principles",
+        "authors": " IBM Design",
+        "principles": [
+            "Concepts from the product's subject domain (for example, systems management) should be central and apparent in the software design.",
+            "Keep it simple.",
+            "Optimize the design for the most frequent or important tasks.",
+            "Make the interface accessible and visible to users.",
+            "Use proper default values when supporting complex tasks.",
+            "Be flexible.",
+            "Keep your users informed and in control by providing informative and timely feedback tailored to the current situation.",
+            "Things that look the same should behave in the same way, and an action should always produce the same result.",
+            "Provide the ability to undo and redo actions.",
+            "Make your application predictable by using industry standard user interface conventions wherever possible.",
+            "Always keep your target users in mind as the product is designed.",
+            "Avoid adding features just so they can be ticked off a list.",
+            "Design your user interface so that it can be localized for other geographies without redesigning the interface.",
+            "Consider persons with disabilities when designing your applications.",
+            "Design the application so that contextual help is available to users when they need it.",
+            "Bring objects to life through good visual design.",
+            "Create user interfaces that promote clarity and visual simplicity."
+        ]
+    },
+    {
+        "header": "Inclusive Design Principles",
+        "authors": " The Paciello Group",
+        "principles": [
+            "Provide comparable experience",
+            "Consider situation",
+            "Be consistent",
+            "Give control",
+            "Offer choice",
+            "Prioritise content",
+            "Add value"
+        ]
+    },
+    {
+        "header": "Introduction to Understanding WCAG 2.0",
+        "authors": " W3C",
+        "principles": [
+            "Perceivable",
+            "Operable",
+            "Understandable",
+            "Robust"
+        ]
+    },
+    {
+        "header": "Intuit Discovery Principles",
+        "authors": " Intuit",
+        "principles": [
+            "We make unbiased, personalized recommendations",
+            "We’re teachers first",
+            "We blend right into your life"
+        ]
+    },
+    {
+        "header": "Intuit's Design Principles",
+        "authors": " Intuit",
+        "principles": [
+            "Be simple, easy to use, and guiding",
+            "Design for the customer and instill confidence",
+            "Establish modern and iconic ownable moments",
+            "Celebrate data while respecting user and device context"
+        ]
+    },
+    {
+        "header": "iOS 11 Design Principles",
+        "authors": " Apple",
+        "principles": [
+            "Aesthetic Integrity",
+            "Consistency",
+            "Direct Manipulation",
+            "Feedback",
+            "Metaphors",
+            "User Control"
+        ]
+    },
+    {
+        "header": "iOS 7 Design Principles",
+        "authors": " Apple",
+        "principles": [
+            "Aesthetic Integrity",
+            "Consistency",
+            "Direct Manipulation",
+            "Feedback",
+            "Metaphors",
+            "User Control"
+        ]
+    },
+    {
+        "header": "iOS User Experience Guidelines",
+        "authors": " Apple",
+        "principles": [
+            "Focus on the Primary Task",
+            "Elevate the Content that People Care About",
+            "Think Top Down",
+            "Give People a Logical Path to Follow",
+            "Make Usage Easy and Obvious",
+            "Use User-Centric Terminology",
+            "Minimize the Effort Required for User Input",
+            "Downplay File-Handling Operations",
+            "Enable Collaboration and Connectedness",
+            "De-emphasize Settings",
+            "Brand Appropriately",
+            "Make Search Quick and Rewarding",
+            "Entice and Inform with a Well-Written Description",
+            "Be Succinct",
+            "Use UI Elements Consistently",
+            "Consider Adding Physicality and Realism",
+            "Delight People with Stunning Graphics"
+        ]
+    },
+    {
+        "header": "JDA NEXT Design Principles",
+        "authors": " JDA Labs",
+        "principles": [
+            "Make it clear",
+            "Keep it smart",
+            "Bring trust",
+            "Tell one story",
+            "Connect users",
+            "Pioneer design ideas",
+            "Stay current, stay elegant"
+        ]
+    },
+    {
+        "header": "The Key Minimalist Graphic Design Fundamentals",
+        "authors": " Heury & Heury",
+        "principles": [
+            "A simple design for a simple idea",
+            "Remove, remove, remove… but not everything",
+            "Emptiness not nothingness",
+            "Minimalism is a commitment"
+        ]
+    },
+    {
+        "header": "Kotti Design Principles",
+        "authors": " Kotti",
+        "principles": [
+            "Keen",
+            "Okay",
+            "Transparent",
+            "Timely",
+            "Intuitive"
+        ]
+    },
+    {
+        "header": "Laws of Simplicity",
+        "authors": " John Maeda",
+        "principles": [
+            "Reduce",
+            "Organize",
+            "Time",
+            "Learn",
+            "Differences",
+            "Context",
+            "Emotion",
+            "Trust",
+            "Failure",
+            "The one"
+        ]
+    },
+    {
+        "header": "Lullabots Design Principles",
+        "authors": " Lullabot",
+        "principles": [
+            "Design on purpose",
+            "Design with focus",
+            "Design for humans",
+            "Design simply",
+            "Design together",
+            "Design progressively"
+        ]
+    },
+    {
+        "header": "Lyft Design Principles",
+        "authors": " Lyft",
+        "principles": [
+            "Nail the Basics",
+            "Build Confidence",
+            "Be Unique"
+        ]
+    },
+    {
+        "header": "Manifesto for the Experience of Things",
+        "authors": " Dan Frost",
+        "principles": [
+            "My. Your. Our. The.",
+            "Design for scale",
+            "Be Obvious",
+            "Imbue ownership",
+            "Build it to last"
+        ]
+    },
+    {
+        "header": "Manifesto: Rules for standards-makers",
+        "authors": " Dave Winer",
+        "principles": [
+            "Interop is all that matters",
+            "There are tradeoffs in standards",
+            "Software matters more than formats (much)",
+            "Users matter even more than software",
+            "One way is better than two",
+            "Fewer formats is better",
+            "Fewer format features is better",
+            "Perfection is a waste of time",
+            "Write specs in plain English",
+            "Explain the curiosities",
+            "If practice deviates from the spec, change the spec",
+            "No breakage",
+            "Freeze the spec",
+            "Keep it simple",
+            "Developers are busy",
+            "Mail lists don’t rule",
+            "Praise developers who make it easy to interop"
+        ]
+    },
+    {
+        "header": "MapBox Design Principles",
+        "authors": " Mapbox",
+        "principles": [
+            "Interaction is the basic unit of design.",
+            "Transitional interfaces are easier to learn and more pleasant to use.",
+            "Interactions should be delightful and surprising.",
+            "Focus the user on one primary action at a time."
+        ]
+    },
+    {
+        "header": "Material Design",
+        "authors": " Google",
+        "principles": [
+            "Material is the metaphor",
+            "Bold, graphic, intentional",
+            "Motion provides meaning"
+        ]
+    },
+    {
+        "header": "MDN Open Web Apps principles",
+        "authors": " Mozilla Developer Network",
+        "principles": [
+            "Be consistent",
+            "Be concise and use appropriate language",
+            "Always provide clues and immediate feedback",
+            "Minimize typing",
+            "Aim for a pleasant first launch experience",
+            "Present action choices if possible",
+            "Focus on the main task",
+            "Prepare for interruptions"
+        ]
+    },
+    {
+        "header": "Early Design Principles at Medium",
+        "authors": " Medium",
+        "principles": [
+            "Direction over Choice",
+            "Appropriate over Consistent",
+            "Evolving over Finalized"
+        ]
+    },
+    {
+        "header": "Mendeley Experience Principles",
+        "authors": " Mendeley",
+        "principles": [
+            "Empowered",
+            "Confident",
+            "Considered",
+            "Organised",
+            "Calm",
+            "Connected"
+        ]
+    },
+    {
+        "header": "Mercedes-Benz Design Philosophy",
+        "authors": " Mercedes-Benz",
+        "principles": [
+            "Design as a trademark",
+            "Identity and continuity",
+            "Trends and reality",
+            "Passion and practicality",
+            "Experience and enjoyment",
+            "Form and function",
+            "Visions and emotions"
+        ]
+    },
+    {
+        "header": "Microformats Principles",
+        "authors": " microformats.org",
+        "principles": [
+            "Solve a specific problem",
+            "Start as simple as possible",
+            "Design for humans first, machines second",
+            "Reuse building blocks from widely adopted standards",
+            "Modularity / embeddability",
+            "Enable and encourage decentralized and distributed development, content, services"
+        ]
+    },
+    {
+        "header": "Microsoft Design Principles",
+        "authors": " Microsoft",
+        "principles": [
+            "Pride in craftsmanship",
+            "Do more with less",
+            "Fast and fluid",
+            "Authentically digital",
+            "Win as one"
+        ]
+    },
+    {
+        "header": "Moo.com UX rules",
+        "authors": " Richard Pope",
+        "principles": [
+            "Optimise for the common case",
+            "Build tools that focus on meeting one simple need",
+            "Build tools for users without experience",
+            "Users needs are not always the same as the features they ask for",
+            "One action per page",
+            "Context is more important than consistency",
+            "Optimise for average user's return rate",
+            "Make pages functionally readable",
+            "Only tell people things once per page",
+            "Contextual help is best",
+            "Let people teach themselves",
+            "Keep the user path as short as possible",
+            "Make decisions for people",
+            "Make people confident in their actions",
+            "Pages make sense before and after action",
+            "State should always be maintained between pages",
+            "Make sure pages content can be linked to forever"
+        ]
+    },
+    {
+        "header": "MUJI Philosophy",
+        "authors": " MUJI",
+        "principles": [
+            "MUJI is not a brand whose value rests in the frills and “extras” it adds to its products.",
+            "MUJI is simplicity – but a simplicity achieved through a complexity of thought and design.",
+            "MUJI’s streamlining is the result of the careful elimination and subtraction of gratuitous features and design unrelated to function.",
+            "MUJI, the brand, is rational, and free of agenda, doctrine, and “isms.” The MUJI concept derives from us continuously asking, “What is best from an individual’s point of view?”",
+            "MUJI aspires to modesty and plainness, the better to adapt and shape itself to the styles, preferences, and practices of as wide a group of people as possible.",
+            "MUJI – in its deliberate pursuit of the pure and the ordinary – achieves the extraordinary."
+        ]
+    },
+    {
+        "header": "My Design Principles",
+        "authors": " Leigh Howells",
+        "principles": [
+            "Focused",
+            "Inclusive",
+            "Aware",
+            "Flexible",
+            "Kind"
+        ]
+    },
+    {
+        "header": "Engineering Team Principles",
+        "authors": " NAVA PBC",
+        "principles": [
+            "We are proactive by architecting robust systems, addressing risks early, focusing on the user experience, and finding the simplest path forward.",
+            "We value the time of our colleagues, our users, and our future selves over our own.",
+            "We believe in empathy, reliability, and simplicity."
+        ]
+    },
+    {
+        "header": "NHS Design Principles",
+        "authors": " NHS",
+        "principles": [
+            "Put people at the heart of everything you do",
+            "Design for the outcome",
+            "Be inclusive",
+            "Design for context",
+            "Design for trust",
+            "Test your assumptions",
+            "Make, learn, iterate",
+            "Do the hard work to make it simple",
+            "Make things open. It makes things better"
+        ]
+    },
+    {
+        "header": "NI Design Tenets",
+        "authors": " National Instruments",
+        "principles": [
+            "Respect the History",
+            "Stay Trustworthy",
+            "Direct Focus",
+            "Be Cautious When Assuming User Intent",
+            "Promote Confidence",
+            "Progressive Disclosure",
+            "Encourage Direct Manipulation",
+            "Provide Batch Operations, and Promote Property Inheritance",
+            "Provide the Appropriate Level of \"Scrappiness\""
+        ]
+    },
+    {
+        "header": "OCC’s design principles",
+        "authors": " Niklaus Gerber",
+        "principles": [
+            "Meet users early and often",
+            "Focus on adding value, not features",
+            "Be commercially aware",
+            "Make it inclusive and accessible",
+            "Test and iterate",
+            "Be consistent",
+            "Make it attractive and usable",
+            "Be lean and efficient",
+            "Collaborate"
+        ]
+    },
+    {
+        "header": "Opower - Design Principles",
+        "authors": " Opower",
+        "principles": [
+            "Design for how people actually behave",
+            "Assume people don’t care",
+            "Always lead to action",
+            "Aim for a long-term relationship, not a one-night stand",
+            "Build for everyone…who receives a utility bill"
+        ]
+    },
+    {
+        "header": "Paypal Design Principles",
+        "authors": " Paypal",
+        "principles": [
+            "We Craft",
+            "We Simplify",
+            "We Connect",
+            "We Go All In"
+        ]
+    },
+    {
+        "header": "Photon Design Principles",
+        "authors": " Mozilla",
+        "principles": [
+            "Adaptable",
+            "Quick",
+            "Aware",
+            "Approachable",
+            "Supportive",
+            "Whimsical"
+        ]
+    },
+    {
+        "header": "Pinterest Design Principles",
+        "authors": " Pinterest",
+        "principles": [
+            "Lucid",
+            "Animated",
+            "Unbreakable"
+        ]
+    },
+    {
+        "header": "Principles and Patterns for Rich Interaction",
+        "authors": " Theresa Neil & Bill Scott",
+        "principles": [
+            "Make it Direct",
+            "Keep It Lightweight",
+            "Stay on the Page",
+            "Provide an Invitation",
+            "Use Transitions",
+            "React Immediately"
+        ]
+    },
+    {
+        "header": "Principles for 21st Century Government",
+        "authors": " Code for America",
+        "principles": [
+            "Design for people's needs",
+            "Make it easy for everyone to participate",
+            "Focus on what government can do",
+            "Make data easy to find and use",
+            "Use data to make and improve decisions",
+            "Choose the right technology for the job",
+            "Organize for results"
+        ]
+    },
+    {
+        "header": "Principles for Accessibility",
+        "authors": " Sarah Horton & Whitney Quesenbery",
+        "principles": [
+            "A Web for Everyone\n",
+            "People First: Designing for differences\n",
+            "Clear Purpose: Well-defined goals\n",
+            "Solid Structure: Built to standards\n",
+            "Easy Interaction: Everything works\n",
+            "Helpful Wayfinding: Guides users\n",
+            "Clean Presentation: Visual design supports meaning\n",
+            "Plain Language: Creates a conversation\n",
+            "Accessible Media: Supports all senses\n",
+            "Universal Usability: Creates delight\n"
+        ]
+    },
+    {
+        "header": "Principles for Considerate Products",
+        "authors": " Alan Cooper",
+        "principles": [
+            "Considerate products take an interest",
+            "Considerate products are deferential",
+            "Considerate products are forthcoming",
+            "Considerate products use common sense",
+            "Considerate products use discretion",
+            "Considerate products anticipate people’s needs",
+            "Considerate products are conscientious",
+            "Considerate products don’t burden you with their personal problems",
+            "Considerate products keep you informed",
+            "Considerate products are perceptive",
+            "Considerate products are self-confident",
+            "Considerate products don’t ask a lot of questions",
+            "Considerate products fail gracefully",
+            "Considerate products know when to bend the rules",
+            "Considerate products take responsibility",
+            "Considerate products help you avoid awkward mistakes"
+        ]
+    },
+    {
+        "header": "Principles for Designing Systems for Expert Users",
+        "authors": " Natalia Rozycka",
+        "principles": [
+            "Understand the domain",
+            "User research",
+            "Recognize your user group",
+            "Become a Padawan*",
+            "Master contextual inquiry",
+            "Undust Jacob Nielsens Usability Heuristics",
+            "Don't be dogmatic",
+            "Limit users interactions with others",
+            "Be creative with devices",
+            "Remember that IQ ≠ computer literacy"
+        ]
+    },
+    {
+        "header": "Principles for Independent Archives",
+        "authors": " Luke Bacon",
+        "principles": [
+            "Use open standards",
+            "Think long term",
+            "Stay small, let others create meta-collections",
+            "Strive for universal accessibility, be accessible by default",
+            "Store the original record, present its essence over its resolution",
+            "Work together",
+            "Believe in your ideas, an independent perspective is worth a lot"
+        ]
+    },
+    {
+        "header": "Principles for Prototyping",
+        "authors": " Todd Zaki Warfel",
+        "principles": [
+            "Understand the audience and intent",
+            "Plan a little—prototype the rest",
+            "Set expectations",
+            "You can sketch",
+            "It's a prototype—not the Mona Lisa",
+            "If you can't make it, fake it",
+            "Prototype only what you need",
+            "Reduce risk—prototype early and often"
+        ]
+    },
+    {
+        "header": "Principles for the Agile Architect",
+        "authors": "Source:agilearchitect.org/agile/principles.htm ",
+        "principles": [
+            "Value People",
+            "Communicate!",
+            "Less is More",
+            "Embrace Change: Plan It, Manage It!\n",
+            "Choose the Right Solution for the Enterprise",
+            "Deliver Quality",
+            "Model and Document in an Agile Fashion"
+        ]
+    },
+    {
+        "header": "Principles of Bot Design",
+        "authors": " Intercom",
+        "principles": [
+            "Don’t pretend to be a human",
+            "Keep it incredibly simple",
+            "Respect the chat medium",
+            "Optimise for the end user",
+            "Use sparingly",
+            "Provide an escape hatch",
+            "Use structured input when possible",
+            "Everyone sees the same thing"
+        ]
+    },
+    {
+        "header": "Principles of Calm Technology",
+        "authors": " Amber Case",
+        "principles": [
+            "Technology should require the smallest possible amount of attention",
+            "Technology should inform and create calm",
+            "Technology should make use of the periphery",
+            "Technology should amplify the best of technology and the best of humanity",
+            "Technology can communicate, but doesn’t need to speak",
+            "Technology should work even when it fails",
+            "The right amount of technology is the minimum needed to solve the problem",
+            "Technology should respect social norms"
+        ]
+    },
+    {
+        "header": "Principles of Design",
+        "authors": " Tim Berners Lee",
+        "principles": [
+            "Simplicity",
+            "Modular Design",
+            "Being part of a Modular Design",
+            "Tolerance",
+            "Decentralization",
+            "Test of Independent Invention",
+            "Principle of Least Power"
+        ]
+    },
+    {
+        "header": "Principles of Ethical Web Development",
+        "authors": " Adam Scott",
+        "principles": [
+            "Web applications should work for everyone",
+            "Built responsively",
+            "Use https everywhere",
+            "Comment and document code"
+        ]
+    },
+    {
+        "header": "Principles of No UI",
+        "authors": " Golden Krishna",
+        "principles": [
+            "Embrace Typical Processes Instead of Screens",
+            "Leverage Computers Instead of Serving Them",
+            "Adapt to Individuals"
+        ]
+    },
+    {
+        "header": "Principles of pervasive retail application design",
+        "authors": " Jonathan Morgan",
+        "principles": [
+            "Define the Actionable Context",
+            "Earn Their Trust",
+            "Give them what the real world can't",
+            "Reduce complexity of the physical environment",
+            "Let them focus on the real-world",
+            "Emulate & augment the direct product experience",
+            "Keep the shopper moving",
+            "Put the shoppers in control",
+            "Design for hyper-relevant experiences",
+            "Be fun, smart, attentive and efficient"
+        ]
+    },
+    {
+        "header": "Principles of product and service design",
+        "authors": " Niklaus Gerber",
+        "principles": [
+            "We focus on our user's needs",
+            "We add value and not features",
+            "We test and iterate",
+            "We learn from failure",
+            "We are obvious",
+            "We are consistent",
+            "We make it usable and attractive",
+            "We make it accessible and inclusive",
+            "We imbue ownership",
+            "We design with data",
+            "We collaborate",
+            "We make it shareable and reusable",
+            "We acknowledge that design never stops"
+        ]
+    },
+    {
+        "header": "Principles of Product Design",
+        "authors": " Joshua Porter",
+        "principles": [
+            "Usefulness is job",
+            "The experience is the product",
+            "Solve existing problems",
+            "Look for investment",
+            "Model features on real artifacts",
+            "Fit and finish matter",
+            "Release quality sets expectations",
+            "Release a smaller, better product",
+            "The last 10% is the hardest",
+            "Know who your real competitors are",
+            "Actual vs desired use",
+            "Personal value precedes social value",
+            "Users are not product designers",
+            "The behavior you’re seeing is the behavior you’ve designed for",
+            "Great products are focused on a single problem",
+            "Disruptive products look like toys",
+            "Positioning is crucial",
+            "Product/market fit is when people sell for you"
+        ]
+    },
+    {
+        "header": "Principles of User Interface Design",
+        "authors": " Joshua Porter",
+        "principles": [
+            "Interfaces exist to enable interaction",
+            "Clarity is job #1",
+            "Conserve attention at all costs",
+            "Keep users in control",
+            "Direct manipulation is best",
+            "One primary action per screen",
+            "Keep secondary actions secondary",
+            "Provide a natural next step",
+            "Appearance follows behavior (aka form follows function)",
+            "Consistency matters",
+            "Strong visual hierarchies work best",
+            "Smart organization reduces cognitive load",
+            "Highlight, don't determine, with color",
+            "Progressive disclosure",
+            "Help people inline",
+            "A crucial moment: the zero state",
+            "Existing problems are most valuable",
+            "Great design is invisible",
+            "Build on other design disciplines",
+            "Interfaces exist to be used"
+        ]
+    },
+    {
+        "header": "Principles of Web Development",
+        "authors": " Jens Meiert",
+        "principles": [
+            "Focus on the User",
+            "Focus on Quality",
+            "Keep It Simple",
+            "Think Long-Term (and Beware of Fads)",
+            "Don’t Repeat Yourself (aka One Cannot Not Maintain)",
+            "Code Responsibly",
+            "Know Your Field"
+        ]
+    },
+    {
+        "header": "Principles of Design with Watson",
+        "authors": " Rob Harrigan",
+        "principles": [
+            "Know your data.",
+            "Design for honesty, not omnipotence.",
+            "Show — don’t just do.",
+            "Deliver insights, not visualizations.",
+            "Always in service of people never in lieu of them."
+        ]
+    },
+    {
+        "header": "Quartz Design Principles",
+        "authors": " Quartz",
+        "principles": [
+            "Stay out of the users' way",
+            "Let the stories shine",
+            "Make sure it works on mobile",
+            "Remove before adding",
+            "Pick one thing before another",
+            "Make small decisions made on data and big decisions with your gut"
+        ]
+    },
+    {
+        "header": "React Design Principles",
+        "authors": " React",
+        "principles": [
+            "Composition",
+            "Common Abstraction",
+            "Escape Hatches",
+            "Stability",
+            "Interoperability",
+            "Scheduling",
+            "Developer Experience",
+            "Debugging",
+            "Configuration",
+            "Beyond the DOM",
+            "Implementation",
+            "Optimized for Tooling",
+            "Dogfooding"
+        ]
+    },
+    {
+        "header": "Responsive Principles",
+        "authors": " Paul Robert Lloyd",
+        "principles": [
+            "Start from the point of greatest adaptability",
+            "Reflect the diversity of users within our practice",
+            "Build using systems that can be reasoned with"
+        ]
+    },
+    {
+        "header": "Salesforce Lightning Design Principles",
+        "authors": " Salesforce",
+        "principles": [
+            "Clarity",
+            "Efficiency",
+            "Consistency",
+            "Beauty"
+        ]
+    },
+    {
+        "header": "SAP Fiori Design Principles",
+        "authors": " SAP",
+        "principles": [
+            "Role-based",
+            "Delightful",
+            "Coherent",
+            "Simple",
+            "Adaptive"
+        ]
+    },
+    {
+        "header": "Service Design Principles",
+        "authors": " Tim Manning",
+        "principles": [
+            "General Principles",
+            "Process Design",
+            "Organisation Design",
+            "Data Design",
+            "Technology Design"
+        ]
+    },
+    {
+        "header": "Shneiderman's \"Eight Golden Rules of Interface Design\"\n",
+        "authors": " Ben Shneiderman",
+        "principles": [
+            "Strive for consistency",
+            "Enable frequent users to use shortcuts",
+            "Offer informative feedback.",
+            "Design dialog to yield closure.",
+            "Offer simple error handling.",
+            "Permit easy reversal of actions",
+            "Support internal locus of control.",
+            "Reduce short-term memory load."
+        ]
+    },
+    {
+        "header": "Shopify Principles",
+        "authors": " Shopify",
+        "principles": [
+            "Put merchants first",
+            "Empower but don’t overwhelm",
+            "Build a cohesive experience",
+            "Be polished but not ornamental"
+        ]
+    },
+    {
+        "header": "Six Characteristics of Good APIs",
+        "authors": " Google",
+        "principles": [
+            "Be minimal",
+            "Be complete",
+            "Have clear and simple semantics",
+            "Be intuitive",
+            "Be easy to memorize",
+            "Lead to readable code"
+        ]
+    },
+    {
+        "header": "Six Universal IBM experiences",
+        "authors": " IBM Design",
+        "principles": [
+            "Discover, try and buy",
+            "Get Started",
+            "Everyday use",
+            "Manage and upgrade",
+            "Leverage and extend",
+            "Get support"
+        ]
+    },
+    {
+        "header": "Sustainable Safety",
+        "authors": " SWOV",
+        "principles": [
+            "Functionality (of roads)",
+            "Homogeneity (of mass, speed and direction of road users)",
+            "Predictability (of road course and road user behaviour by a recognizable road design)",
+            "Forgivingness (of both the road/street environment and the road users)",
+            "State awareness (by the road user)"
+        ]
+    },
+    {
+        "header": "Telus Design Principles",
+        "authors": " Telus",
+        "principles": [
+            "Clear and simple designs",
+            "Respect our customers",
+            "Support the business",
+            "Be efficient",
+            "Measure",
+            "Mobile first",
+            "Seek the perspective of others",
+            "Think end-to-end",
+            "Align with TELUS standards"
+        ]
+    },
+    {
+        "header": "Ten Principles for Good Design",
+        "authors": " Dieter Rams",
+        "principles": [
+            "Good design is innovative",
+            "Good design makes a product useful",
+            "Good design is aesthetic",
+            "Good design makes a product understandable",
+            "Good design is unobtrusive",
+            "Good design is honest",
+            "Good design is long-lasting",
+            "Good design is thorough down to the last detail",
+            "Good design is environmentally friendly",
+            "Good design is as little design as possible"
+        ]
+    },
+    {
+        "header": "Ten Principles of Simplicity",
+        "authors": " Jay Selway",
+        "principles": [
+            "Meet expectations",
+            "Don't overwhelm people",
+            "Only present a few choices at a time",
+            "No jargon or compu-speak",
+            "Consider the abilities of different users",
+            "Visual clarity",
+            "Understand the problem",
+            "It's been tested",
+            "Account for context",
+            "It's not just usable"
+        ]
+    },
+    {
+        "header": "Ten Principles that Contribute to a Googley Experience",
+        "authors": " Google",
+        "principles": [
+            "Focus on people their lives, their work, their dreams.",
+            "Every millisecond counts.",
+            "Simplicity is powerful.",
+            "Engage beginners and attract experts.",
+            "Dare to innovate.",
+            "Design for the world.",
+            "Plan for today’s and tomorrow’s business.",
+            "Delight the eye without distracting the mind.",
+            "Be worthy of people’s trust.",
+            "Add a human touch."
+        ]
+    },
+    {
+        "header": "Ten Rules for Web Startups",
+        "authors": " Evan Williams",
+        "principles": [
+            "Be narrow",
+            "Be different",
+            "Be casual",
+            "Be picky",
+            "Be user-centric",
+            "Be self-centered",
+            "Be greedy",
+            "Be tiny",
+            "Be agile",
+            "Be balanced",
+            "(bonus!) Be wary"
+        ]
+    },
+    {
+        "header": "Ten Things We Know to be True",
+        "authors": " Google",
+        "principles": [
+            "Focus on the user and all else will follow.",
+            "It’s best to do one thing really, really well.",
+            "Fast is better than slow.",
+            "Democracy on the web works.",
+            "You don’t need to be at your desk to need an answer.",
+            "You can make money without doing evil.",
+            "There’s always more information out there.",
+            "The need for information crosses all borders.",
+            "You can be serious without a suit.",
+            "Great just isn’t good enough."
+        ]
+    },
+    {
+        "header": "The 10 Principles of Successful Lean Product Teams",
+        "authors": " Luxr",
+        "principles": [
+            "Development + Product Management + UX = 1 Product Team",
+            "Externalize",
+            "Repeatable & Routine",
+            "Goal Driven & Outcome Focused",
+            "FLOW: Think-Make-Check\n",
+            "Focus on Solving the Right Problem",
+            "Generate Many Options",
+            "Decide Quickly Which To Pursue & Hold Decisions Lightly",
+            "Recognize hypotheses and validate them",
+            "Research with users is the best source of information"
+        ]
+    },
+    {
+        "header": "The 10,000 Year Clock",
+        "authors": " Danny Hillis",
+        "principles": [
+            "Longevity",
+            "Maintainability",
+            "Transparency",
+            "Evolvability",
+            "Scalability"
+        ]
+    },
+    {
+        "header": "The 12 Realistic Principles of Agile UX",
+        "authors": " Guiseppe Getto",
+        "principles": [
+            "Customer experience (CX)",
+            "Harnessing technological and social change",
+            "Development timelines that make good use of resources",
+            "Adaptive collaboration",
+            "Building projects around motivated individuals",
+            "Effective communication across team channels",
+            "Working applications and high-quality UX as success benchmarks",
+            "Sustainable development",
+            "Technical excellence is relative",
+            "Simplicity",
+            "Cross-functional teams",
+            "Adaptable, flexible teams"
+        ]
+    },
+    {
+        "header": "The 7 Design Principles of a Blockchain Economy",
+        "authors": " Steemit",
+        "principles": [
+            "Networked Integrity",
+            "Distributed Power",
+            "Value as Incentive",
+            "Security",
+            "Privacy",
+            "Rights preserved",
+            "Inclusion"
+        ]
+    },
+    {
+        "header": "The Arch Way",
+        "authors": " Arch Linux",
+        "principles": [
+            "Simplicity",
+            "Modernity",
+            "Pragmatism",
+            "User centrality",
+            "Versatility"
+        ]
+    },
+    {
+        "header": "The Building Blocks of Sustainable Web Design",
+        "authors": " Mightybytes",
+        "principles": [
+            "Findability",
+            "Performance Optimization",
+            "Design & User Experience",
+            "Green Hosting"
+        ]
+    },
+    {
+        "header": "The Ecology of Multi-Device Design",
+        "authors": " Punchcut",
+        "principles": [
+            "Recognize Interdependence",
+            "Embrace Diversity",
+            "Embrace Diversity",
+            "Support Exchanges",
+            "Support Exchanges",
+            "Ensure Resiliency",
+            "Ensure Resiliency",
+            "Integrate Naturally",
+            "Integrate Naturally",
+            "Expect Evolution",
+            "Expect Evolution"
+        ]
+    },
+    {
+        "header": "The Edenspiekermann Manifesto",
+        "authors": " Edenspiekermann",
+        "principles": [
+            "We work for your customers.",
+            "Challenge us.",
+            "We don’t give answers.",
+            "We are not suppliers",
+            "Talk to us.",
+            "Trust us.",
+            "Pay us."
+        ]
+    },
+    {
+        "header": "The Four C's of Form Design",
+        "authors": " Jessica Enders",
+        "principles": [
+            "Clear",
+            "Concise",
+            "Clever",
+            "Cooperative"
+        ]
+    },
+    {
+        "header": "The Lean Startup Principles",
+        "authors": " Eric Ries",
+        "principles": [
+            "Entrepreneurs Are Everywhere",
+            "Entrepreneurship Is Management",
+            "Validated Learning",
+            "Innovation Accounting",
+            "Build-Measure-Learn"
+        ]
+    },
+    {
+        "header": "The Meta Principles for Visual Usability",
+        "authors": " Tania Schlatter",
+        "principles": [
+            "Consistency",
+            "Hierarchy",
+            "Personality"
+        ]
+    },
+    {
+        "header": "The Nine Principles Of Design Implementation",
+        "authors": " Tom Greever",
+        "principles": [
+            "Structured",
+            "Efficient",
+            "Standardized",
+            "Abstracted",
+            "Modular",
+            "Configurable",
+            "Scalable",
+            "Documented",
+            "Accurate"
+        ]
+    },
+    {
+        "header": "The Principles of Inclusive Design",
+        "authors": " Design Council",
+        "principles": [
+            "Inclusive design places people at the heart of the design process",
+            "Inclusive design acknowledges diversity and difference",
+            "Inclusive design offers choice where a single design solution cannot accommodate all users",
+            "Inclusive design provides for flexibility in use",
+            "Inclusive design provides buildings and environments that are convenient and enjoyable to use for everyone"
+        ]
+    },
+    {
+        "header": "The Ten Principles of Inclusive Web Design",
+        "authors": " Sandi Wassmer",
+        "principles": [
+            "Equitable: Be welcoming.",
+            "Flexible: Provide options.",
+            "Straightforward: Be obvious and not ambiguous.",
+            "Perceptible: Don’t assume anything.",
+            "Informative: Be timely, predictable, uncomplicated and precise.",
+            "Preventative: Provide easy to follow instructions and gently guide users.",
+            "Tolerant: Handle errors respectfully.",
+            "Effortless: Don’t make demands or place restrictions on your users.",
+            "Accommodating: Be approachable, uncluttered and give people room to manoeuvre.",
+            "Consistent: Follow standards, guidelines, conventions and best practices."
+        ]
+    },
+    {
+        "header": "The Ten Tenets of Chindogu",
+        "authors": " International Chindogu Society",
+        "principles": [
+            "A Chindogu cannot be for real use.",
+            "A Chindogu must exist.",
+            "Inherent in every Chindogu is the spirit of anarchy.",
+            "Chindogu are tools for everyday life.",
+            "Chindogu are not for sale.",
+            "Humour must not be the sole reason for creating Chindogu.",
+            "Chindogu are not propaganda.",
+            "Chindogu are never taboo.",
+            "Chindogu cannot be patented.",
+            "Chindogu are without prejudice."
+        ]
+    },
+    {
+        "header": "The UX Axioms",
+        "authors": " Erik Dahl",
+        "principles": [
+            "It's all about people, it's not about the object",
+            "Focus on the experience, not on the function",
+            "Stories are how we understand and shape the world",
+            "Pay attention to patterns",
+            "Problem finding before problem solving",
+            "Expose and challenge assumptions",
+            "Explore the big picture and the details at once",
+            "Know your materiality. People, technology, business, aesthetics...",
+            "Open your eyes; don't trust what people say",
+            "Create models not just narratives; use frameworks",
+            "Reframe constraints as a forcing function",
+            "Tame Complexity; don't simplify",
+            "Make non-arbitrary design decisions",
+            "Set and manage expectations",
+            "Everything is designed and everything is a design challenge",
+            "Break silos; your role is bigger than you think",
+            "Say 'yes and'; don't always assume 'either or'",
+            "It's about the journey, lifecycle, and transition; not just key moments",
+            "Externalize your work for yourself and others",
+            "Create and close feedback loops",
+            "Make stuff and then kill it",
+            "Context, context, context",
+            "Focus on a single thing and then do it really well",
+            "Understand and play with emotion",
+            "Engender trust",
+            "Collaborate with others"
+        ]
+    },
+    {
+        "header": "Tivo's Revised Design Principles",
+        "authors": " Tivo",
+        "principles": [
+            "It is reliable.",
+            "It puts me in control.",
+            "It's easy to use.",
+            "It's smart and helpful.",
+            "It's responsive.",
+            "It's all about entertainment."
+        ]
+    },
+    {
+        "header": "Tizen Design Principles",
+        "authors": " Tizen",
+        "principles": [
+            "Content-driven",
+            "Focused",
+            "Tailored: Delivering Customization and Personalization\n"
+        ]
+    },
+    {
+        "header": "Trello Design Principles",
+        "authors": " Trello",
+        "principles": [
+            "Universal",
+            "Easy",
+            "Personal",
+            "Visual and Tactile",
+            "Familiar",
+            "Succinct",
+            "Direct",
+            "Flexible",
+            "Collaborative",
+            "Fun"
+        ]
+    },
+    {
+        "header": "Uber Design Principles",
+        "authors": " Uber Design",
+        "principles": [
+            "Instructive",
+            "Non-intrusive",
+            "Focused and Timely"
+        ]
+    },
+    {
+        "header": "UNIX philosophy",
+        "authors": " Doug McIlroy",
+        "principles": [
+            "Do One Thing and Do It Well.",
+            "Write programs to work together.",
+            "Build a prototype as soon as possible.",
+            "Build software tools."
+        ]
+    },
+    {
+        "header": "U.S. Web Design System",
+        "authors": " Technology Transformation Services",
+        "principles": [
+            "Make the best thing the easiest thing",
+            "Offer accessibility out of the box",
+            "Design for flexibility",
+            "Showcase benefits for agency and users",
+            "Reuse, reuse, reuse"
+        ]
+    },
+    {
+        "header": "Voice Interface Design Principles",
+        "authors": " Annabel Acton",
+        "principles": [
+            "Radical Simplicity",
+            "Deep Empathy",
+            "No Jargon",
+            "Allow For Misunderstandings",
+            "Embrace Personality"
+        ]
+    },
+    {
+        "header": "Voice User Interface Principles",
+        "authors": " Stephen Gay",
+        "principles": [
+            "Get to know each other",
+            "Be approachable",
+            "Listen closely",
+            "Mind your manners",
+            "Talk like a native",
+            "Adapt your speaking style"
+        ]
+    },
+    {
+        "header": "Weight Watchers Design Principles",
+        "authors": " Weight Watchers",
+        "principles": [
+            "Personas",
+            "Experience",
+            "Context",
+            "The 80%",
+            "Simplicity",
+            "Patterns",
+            "Extensibility",
+            "Platform",
+            "Hierarchy",
+            "Empathy"
+        ]
+    },
+    {
+        "header": "What is a good standard?",
+        "authors": " Bert Bos",
+        "principles": [
+            "Maintainability",
+            "Modularity",
+            "Minimum redundancy",
+            "Accessibility",
+            "Device-independency",
+            "Internationality",
+            "Extensibility",
+            "Learnability",
+            "Readability",
+            "Efficiency",
+            "Binary or text format",
+            "Implementability",
+            "Simplicity",
+            "Longevity",
+            "Backwards compatibility",
+            "Interoperability",
+            "Repurposing of content",
+            "Timeliness",
+            "Use what is there",
+            "Design by committee",
+            "Expertise",
+            "Brevity",
+            "Stability",
+            "Robustness"
+        ]
+    },
+    {
+        "header": "What the Heck Is Inclusive Design?",
+        "authors": " Heydon Pickering",
+        "principles": [
+            "Involve code early",
+            "Respect conventions",
+            "Don’t be exact",
+            "Enforce simplicity"
+        ]
+    },
+    {
+        "header": "WikiHouse 10 Design Principles",
+        "authors": " WikiHouse",
+        "principles": [
+            "Share global, manufacture local",
+            "Be lazy like a fox",
+            "Design to lower thresholds",
+            "Share and make shareable",
+            "Open standards",
+            "Open materials",
+            "Human friendly",
+            "Start somewhere",
+            "Modular",
+            "Include, keep including",
+            "The new ‘normal’",
+            "Mistake proof",
+            "Whole life design",
+            "Superpower the users",
+            "If you can’t mend it, you don’t own it"
+        ]
+    },
+    {
+        "header": "Willem Sandberg",
+        "authors": " Willem Sandberg",
+        "principles": [
+            "A poster has to be joyous, unless it has to arouse compassion.",
+            "Red has to be in every poster.",
+            "A poster has to provoke a closer look, otherwise it doesn’t endure.",
+            "With a respect for society, designer and director both are responsible for the street scene. A poster does not only have to revive the street, it also has to be human.",
+            "Every poster has to be an artwork."
+        ]
+    },
+    {
+        "header": "Windows User Experience Design Principles",
+        "authors": " Microsoft",
+        "principles": [
+            "Reduce concepts to increase confidence",
+            "Small things matter, good and bad",
+            "Be great at \"look\" and \"do\"",
+            "Solve distractions, not discoverability",
+            "UX before knobs and questions",
+            "Personalization, not customization",
+            "Value the life cycle of the experience",
+            "Time matters, so build for people on the go"
+        ]
+    },
+    {
+        "header": "Wonderbly Design Principles",
+        "authors": " Wonderbly",
+        "principles": [
+            "Be Storytellers",
+            "Join Our Club",
+            "Optimized Experiences",
+            "Grandma First"
+        ]
+    },
+    {
+        "header": "ZapLabs Design Principles",
+        "authors": " ZapLabs",
+        "principles": [
+            "Know your users",
+            "Clarity",
+            "Consistency",
+            "Efficiency",
+            "Aesthetics"
+        ]
+    },
+    {
+        "header": "Zappo's Design Principles",
+        "authors": " Zappo",
+        "principles": [
+            "Deliver WOW Through Service",
+            "Embrace and Drive Change",
+            "Create Fun and A Little Weirdness",
+            "Be Adventurous, Creative, and Open-Minded",
+            "Pursue Growth and Learning",
+            "Build Open and Honest Relationships With Communication",
+            "Build a Positive Team and Family Spirit",
+            "Do More With Less",
+            "Be Passionate and Determined",
+            "Be Humble"
+        ]
+    }
+]
